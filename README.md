@@ -1,7 +1,9 @@
 # Hi, I'm Mokshitha 👋
 
 💼 Data Analyst | Performance Marketing Background
+
 📊 Skilled in SQL, Python, Excel & Power BI
+
 📈 Turning data into actionable insights
 
 ## 🔧 Skills
